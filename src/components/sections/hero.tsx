@@ -50,6 +50,7 @@ export const Hero = () => {
                             sm: '60px',
                             lg: '75px',
                         },
+                        color: { base: 'black', _dark: 'white' },
                     })}
                 >
                     Yesterday you said tomorrow
@@ -63,6 +64,7 @@ export const Hero = () => {
                             sm: '30px',
                             md: '32px',
                         },
+                        color: { base: 'black', _dark: 'white' },
                     })}
                 >
                     Let&apos;s start now{' '}

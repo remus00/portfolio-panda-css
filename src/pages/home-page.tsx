@@ -1,4 +1,5 @@
 import { css } from '../../styled-system/css';
+import { About } from '../components/sections/about';
 import { Hero } from '../components/sections/hero';
 
 export const HomePage = () => {
@@ -15,6 +16,7 @@ export const HomePage = () => {
             })}
         >
             <Hero />
+            <About />
         </div>
     );
 };

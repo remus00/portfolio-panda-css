@@ -51,6 +51,12 @@ export default defineConfig({
                         _dark: 'hsl(24 5.4% 63.9%)',
                     },
                 },
+                title: {
+                    value: {
+                        base: 'hsl(30 3% 30%)',
+                        _dark: 'hsl(0 0% 85%)',
+                    },
+                },
             },
         },
     },
