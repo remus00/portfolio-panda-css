@@ -45,6 +45,12 @@ export default defineConfig({
                         _dark: 'hsl(20.5 90.2% 60%)',
                     },
                 },
+                'muted-foreground': {
+                    value: {
+                        base: 'hsl(25 5.3% 44.7%)',
+                        _dark: 'hsl(24 5.4% 63.9%)',
+                    },
+                },
             },
         },
     },

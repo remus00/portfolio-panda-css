@@ -16,4 +16,9 @@
     .jura {
         font-family: 'Jura', sans-serif;
     }
+
+    .antialiased {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
 }
